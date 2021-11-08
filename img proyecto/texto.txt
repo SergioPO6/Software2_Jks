@@ -1,0 +1,2 @@
+
+imagenes para la carga de la base de datos en mySQL
